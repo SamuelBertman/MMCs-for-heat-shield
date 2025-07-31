@@ -9,7 +9,7 @@ Self-healing Al-Si/NiTi MMC
 [Al-Si/NiTi] - has 91.6% tensile strenght recovery after healing (Fisher et al., 2018)
 
 Still need to search for the following information for each material:
-- Tm SiCp has 660C melting point (Fan et al., 2005) but SiCp does not melt,
+- Tm SiCp has 660C melting point (Fan et al., 2005) but SiCp does not melt, Ti/SiC 1668C (Rahman et al., 2017)
 - thermal conductivity
 - expansion coefficient
 - damage tolerance.toughness
