@@ -3,13 +3,13 @@ Ti matrix and SiC fibre MMC (Ti/SiC)
 . reinforced with continuous SiC fibres w/ titanium matrix. [nickname Ti/SiC]
 SiCp 
 . reinforeced with silicon carbide particles w/ aluminium matrix. [nickname SiCp/Al]
-Self-healing Al-Si/NiTi MMC 
-. reinforced with NiTi shape memory alloy wires w/ aluminium-silicon eutectic alloy matrix. [nickname Al-Si/NiTi] 
+Ni/SiC 
+. reinforced with silicon carbide particles w/ nickel alloy matrix. [nickname Ni/SiC] 
 
 [Al-Si/NiTi] - has 91.6% tensile strenght recovery after healing (Fisher et al., 2018)
 
 Still need to search for the following information for each material:
-- Tm SiCp has 660C melting point (Fan et al., 2005) but SiCp does not melt, Ti/SiC 1668C (Rahman et al., 2017), Al-Si/NiTi MMC has a 1,310C Tm for NiTi (Porter et al., 2000)
+- Tm SiCp has 660C melting point (Fan et al., 2005) but SiCp does not melt, Ti/SiC 1668C (Rahman et al., 2017), 
 - thermal conductivity Ti-SiC has a 3.6 (Turner et al., 1993), SiC/Al has a 174 (Chu et al., 2009),
 - expansion coefficient
 - damage tolerance.toughness
