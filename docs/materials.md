@@ -6,8 +6,6 @@ SiCp
 Ni/SiC 
 . reinforced with silicon carbide particles w/ nickel alloy matrix. [nickname Ni/SiC] 
 
-[Al-Si/NiTi] - has 91.6% tensile strenght recovery after healing (Fisher et al., 2018)
-
 Still need to search for the following information for each material:
 - Tm SiCp has 660C melting point (Fan et al., 2005) but SiCp does not melt, Ti/SiC 1668C (Rahman et al., 2017), 
 - thermal conductivity Ti-SiC has a 3.6 (Turner et al., 1993), SiC/Al has a 174 (Chu et al., 2009),
