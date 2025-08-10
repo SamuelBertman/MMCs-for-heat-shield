@@ -9,7 +9,7 @@ Ni/SiC
 Still need to search for the following information for each material:
 - Tm SiCp has 660C melting point (Fan et al., 2005) but SiCp does not melt, Ti/SiC 1668C (Rahman et al., 2017), Ni/SiC has 964C (Shi et al., 2020)
 - thermal conductivity Ti-SiC has a 3.6 (Turner et al., 1993), SiC/Al has a 174 (Chu et al., 2009), Ni/SiC has a 12.6 (Anwar et al., 2021)
-- expansion coefficient
+- expansion coefficient Ti/SiC has a 9 (BULK) 8.9 (NEUTRON DIFF) 8.6 (A-AXIS) 9.7 (C-AXIS) (Barsoum et al., 1999),
 - damage tolerance.toughness
 - prior aerospace applications
 Understanding these properties will inform the sim parameters and improve prediction of the failure mechanisms under thermal/mechanical stresses typical of spacecraft heat shield environments upon re-entry.
