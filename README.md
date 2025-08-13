@@ -1,4 +1,4 @@
-# MMC Heat Shield Research
+# MMC's for Heat Shields Research
 
 ## Mission
 Investigate the **fundamental performance limits of Metal Matrix Composite (MMC) heat shields** under extreme thermal and mechanical conditions, generating insights into their potential for aerospace re-entry applications.
