@@ -35,3 +35,5 @@ Young modulus = 194GPa = 194 x 10^9 (Montoya-Dávila et al., 2010)
 
 Ni/SiC thermal stress 
 Young modulus = 240GPa = 240 x 10^9 (Bajwa et al., 2016)
+σ = 240 x 10^9 x 9 x 1920.35
+σ = 4.147956 x 10^15
