@@ -19,5 +19,7 @@ Thermal stress calculations:
 E = young modulus 
 α = thermal expansion coeff
 
+Initial temperature = 2.7K (Lea, 2022)
+
 Ti/SiC
 σ = E x 9 x 
