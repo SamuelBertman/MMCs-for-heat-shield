@@ -19,7 +19,7 @@ Thermal stress calculations:
 E = young modulus 
 α = thermal expansion coeff
 
-Young modulus = 157.4GPa = 157.4 x 10^9 (transverse - causes most of the stress because resistance happens mostly along the length of the fibres)
+Young modulus = 157.4GPa = 157.4 x 10^9 (transverse - causes most of the stress because resistance happens mostly along the length of the fibres) (Mahmoodi et al., 2010)
 Initial temperature [T-Initial] = 2.7K (Lea, 2022)
 Peak temperature (re-entry temperature) [T-final] = 1650C = 1923.15K
 ΔT = 1923.15 - 2.7 = 1920.35
