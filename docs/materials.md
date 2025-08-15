@@ -13,3 +13,8 @@ Still need to search for the following information for each material:
 - damage tolerance.toughness Ti-SiC has a 2.71 (1.5% Ti) (Moradgholi et al., 2017), SiCp/A; has a 15 (Song et al., 2008), Ni/SiC has a 9.3 (bimodal) (Babu et al., 2022)
 - prior aerospace applications
 Understanding these properties will inform the sim parameters and improve prediction of the failure mechanisms under thermal/mechanical stresses typical of spacecraft heat shield environments upon re-entry.
+
+Thermal stress calculations: 
+σ=E⋅α⋅ΔT
+
+Ti/SiC
