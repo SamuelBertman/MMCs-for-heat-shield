@@ -16,5 +16,8 @@ Understanding these properties will inform the sim parameters and improve predic
 
 Thermal stress calculations: 
 σ=E⋅α⋅ΔT
+E = young modulus 
+α = thermal expansion coeff
 
 Ti/SiC
+σ = E x 9 x 
