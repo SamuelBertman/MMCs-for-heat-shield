@@ -1,7 +1,7 @@
 Aerospace heat shield material focus right now is on the following:
 Ti matrix and SiC fibre MMC (Ti/SiC) 
 . reinforced with continuous SiC fibres w/ titanium matrix. [nickname Ti/SiC]
-SiCp 
+SiCp/Al
 . reinforeced with silicon carbide particles w/ aluminium matrix. [nickname SiCp/Al]
 Ni/SiC 
 . reinforced with silicon carbide particles w/ nickel alloy matrix. [nickname Ni/SiC] 
@@ -30,4 +30,8 @@ Young modulus = 157.4GPa = 157.4 x 10^9 (transverse - causes most of the stress 
 
 SiCp/Al thermal stress
 Young modulus = 194GPa = 194 x 10^9 (Montoya-Dávila et al., 2010)
-σ = 194
+σ = 194 x 10^9 x 9 x 1920.35
+σ = 3.3529311 x 10^15 
+
+Ni/SiC thermal stress 
+Young modulus = 240GPa = 240 x 10^9 (Bajwa et al., 2016)
