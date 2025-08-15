@@ -25,15 +25,15 @@ Peak temperature (re-entry temperature) [T-final] = 1650C = 1923.15K
 
 Ti/SiC thermal stress
 Young modulus = 157.4GPa = 157.4 x 10^9 (transverse - causes most of the stress because resistance happens mostly along the length of the fibres) (Mahmoodi et al., 2010)
-σ = 157.4 x 10^9 x 9 x 1920.35
-σ = 2.72036781 x 10^15
+σ = 157.4 x 10^9 x 9 x 10^-6 x 1920.35
+σ = 2.72036781 x 10^9
 
 SiCp/Al thermal stress
 Young modulus = 194GPa = 194 x 10^9 (Montoya-Dávila et al., 2010)
-σ = 194 x 10^9 x 9 x 1920.35
-σ = 3.3529311 x 10^15 
+σ = 194 x 10^9 x 9 x 10^-6 x 1920.35
+σ = 3.3529311 x 10^9 
 
 Ni/SiC thermal stress 
 Young modulus = 240GPa = 240 x 10^9 (Bajwa et al., 2016)
-σ = 240 x 10^9 x 9 x 1920.35
-σ = 4.147956 x 10^15
+σ = 240 x 10^9 x 9 10^-6 x 1920.35
+σ = 4.147956 x 10^9
