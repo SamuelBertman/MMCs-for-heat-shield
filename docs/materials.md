@@ -93,7 +93,7 @@ Creep behaviour SiCp/Al (Lin, 1990)
 creep rate = 2.15×10−6 s−1
 rupture life = 1292 h
 
-
+Creep behaviour Ni/SiC
 
 
 
