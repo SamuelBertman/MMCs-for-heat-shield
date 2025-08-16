@@ -55,8 +55,10 @@ Specific heat capacity Ti/SiC
 540J/kg·K (Barsoum et al., 1999)
 
 Specific heat capacity SiCp/Al
-844.7 J/kg·K (Karthikeyan et al., 2011)
+844.7J/kg·K (Karthikeyan et al., 2011)
 
+Specific heat capacity Ni/SiC
+423J/kg·K (Ma et al., 2016) 
 
 
 
