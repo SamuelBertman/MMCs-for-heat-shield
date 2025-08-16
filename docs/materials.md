@@ -51,4 +51,12 @@ SiCp/Al (10% SiCp) ≈ 2.67 g/cm3 (Mulyadi et al., 2019)
 Density Ni/SiC
 Ni/SiC ≈ 7.4 g/cm3 (Anwar et al., 2021)
 
+Specific heat capacity Ti/SiC
+540J/kg·K (Barsoum et al., 1999)
+
+Specific heat capacity SiCp/Al
+
+
+
+
 
