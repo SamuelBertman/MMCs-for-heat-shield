@@ -93,8 +93,9 @@ Creep behaviour SiCp/Al (Lin, 1990)
 creep rate = 2.15×10−6 s−1
 rupture life = 1292 h
 
-Creep behaviour Ni/SiC
-
+Creep behaviour Ni/SiC (Azarmi et al., 2011)
+Creep rate = 5×10⁻⁶ s⁻¹
+Rupture life = 10 h
 
 Yield strength Ti/SiC (Rahman et al., 2017)
 507.6 ksi at room temp
