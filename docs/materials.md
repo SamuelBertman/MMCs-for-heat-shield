@@ -96,4 +96,7 @@ rupture life = 1292 h
 Creep behaviour Ni/SiC
 
 
+Yield strength SiCp/Al (Lin, 1990)
+up to 300F, 60ksi, then declines with 20ksi at 550F
+
 
