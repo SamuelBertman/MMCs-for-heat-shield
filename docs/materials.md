@@ -95,7 +95,7 @@ rupture life = 1292 h
 
 Creep behaviour Ni/SiC
 
-Yield strength Ti/SiC
+Yield strength Ti/SiC (Rahman et al., 2017)
 507.6 ksi at room temp
 
 Yield strength SiCp/Al (Lin, 1990)
