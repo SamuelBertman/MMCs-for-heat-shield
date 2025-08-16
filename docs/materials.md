@@ -84,3 +84,7 @@ Young modulus SiCp/Al at 400C
 
 Young modulus Ni/SiC at 1000C
 approx ≈ 111GPa at 1000C, 400C-800C = decline in young modulus
+
+Creep behaviour Ti/SiC (Zglobicka et al., 2022)
+creep rate = 10^−8 s^−1
+rupture life 500 h
