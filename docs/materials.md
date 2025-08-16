@@ -39,3 +39,9 @@ Young modulus = 240GPa = 240 x 10^9 (Bajwa et al., 2016)
 σ = 4.147956 x 10^9
 
 All materials will be modelled in bulk for consistency, directional effects will not be included yet.
+
+Density Ti/SiC
+Ti₃SiC₂ density ≈ 4.44 g/cm3
+SiC density ≈ 3.21 g/cm3
+TiSiC (1.5% Ti) = 3.23 g/cm3 (Du et al., 2025)
+
