@@ -61,7 +61,21 @@ Specific heat capacity SiCp/Al at room temp
 Specific heat capacity Ni/SiC at room temp
 423J/kg·K (Ma et al., 2016) 
 
+Thermal diffusivity calc
+α = k/ρcp​
+k = thermal conductivity (W/m·K)
+ρ = density (kg/m³)
+cp = specific heat capacity (J/kg·K)
+
 Thermal diffusivity TiSiC
-2.04×10−5m2/s (calculated using thermal conductivity, specific heat capacity and density) (Barsoum et al., 1999)
+2.04×10^−5 m²/s (calculated) (Barsoum et al., 1999)
+
+Thermal diffusivity SiCp/Al
+1.54×10^−4 m²/s (calculated)
+
+Thermal diffusivity Ni/SiC
+4.03×10^−6 m²/s (calculated)
+
+
 
 
