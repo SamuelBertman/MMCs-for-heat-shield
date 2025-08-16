@@ -45,3 +45,10 @@ Ti₃SiC₂ density ≈ 4.44 g/cm3
 SiC density ≈ 3.21 g/cm3
 TiSiC (1.5% Ti) = 3.23 g/cm3 (Du et al., 2025)
 
+Density SiCp/Al
+SiCp/Al (10% SiCp) = 2.67 g/cm3 (Mulyadi et al., 2019)
+
+Density Ni/SiC
+
+
+
