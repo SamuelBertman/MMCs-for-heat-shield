@@ -60,9 +60,6 @@ Specific heat capacity SiCp/Al at room temp
 Specific heat capacity Ni/SiC at room temp
 423J/kg·K (Ma et al., 2016) 
 
-High-temp oxidation kinetics Ti/SiC
-TC/20B: kₚ = 0.73 × 10⁻⁶ kg²·m⁻⁴·s⁻¹ at 1200 °C (Yang et al., 2012)
-
 
 
 
