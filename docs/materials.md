@@ -76,6 +76,9 @@ Thermal diffusivity SiCp/Al
 Thermal diffusivity Ni/SiC
 4.03×10^−6 m²/s (calculated)
 
+Young modulus Ti/SiC at 1200C
+157.4GPa is for room temp up till 1000C in which it remains stable, after 1000C it rapidly declines to 85 GPa at 1200C (Bao & Zhou, 2003)
 
+Young modulus SiCp/Al
 
 
