@@ -1,44 +1,40 @@
-# MMC's for Heat Shields Research
+# Failure-Domain Benchmarking of Aerospace MMCs Under Hypothetical Re-entry Conditions
 
-## Mission
-Investigate the **fundamental performance limits of Metal Matrix Composite (MMC) heat shields** under extreme thermal and mechanical conditions, generating insights into their potential for aerospace re-entry applications.
+## Overview
+This project investigates the performance limits of three metal matrix composites (MMCs):
+- Ti/SiC (continuous SiC fibres in titanium matrix)
+- SiCp/Al (SiC particle-reinforced aluminium matrix)
+- Ni/SiC (SiC particle-reinforced nickel alloy matrix)
 
----
+These materials are **not heat shield candidates**. Their melting points and property degradation under re-entry profiles mean they fail well before true thermal protection materials (e.g., UHTCs, reinforced carbon-carbon).  
 
-## Research Highlights
-- **Thermal Characterization:** Quantified heat transfer behavior of MMC layers under simulated re-entry temperatures, identifying critical thresholds for thermal failure.  
-- **Mechanical Analysis:** Evaluated stress-strain responses of MMC under high-temperature conditions, highlighting potential expansion mismatch and structural vulnerabilities.  
-- **Failure Mechanism Insights:** Modeled thermal gradient propagation to pinpoint mechanisms driving delamination and microstructural degradation.  
-- **Visualization & Simulation:** Produced CAD-based diagrams and Python simulations to link microstructural composition with predicted heat shield performance.  
-- **Literature Synthesis:** Systematically reviewed state-of-the-art MMC materials and re-entry heat shield strategies to identify gaps and opportunities for innovation.
+The objective here is **not survivability**, but **failure-domain mapping**:
+- Quantify thermal stress, creep, modulus degradation, and thermal gradients under extreme aerospace heating.
+- Benchmark how and why these MMCs collapse when pushed beyond intended regimes.
+- Build a transferable simulation framework that can later be applied to ultra-high-temperature ceramics.
 
----
+## Goals
+- Develop critical literature synthesis of MMC aerospace applications.
+- Implement Python-based thermal gradient + stress simulations.
+- Produce a research poster/infographic targeted for RSC Materials track.
+- Publish a technical blog post documenting methodology and insights.
+- Package clean, documented simulation notebooks in this repo.
+- Submit to RSC Student Poster Competition (Materials).
+- Update vision document with reflection on failure-domain methodology.
 
-## Project Structure
-- **`blog_posts/`** – Weekly research reflections, methodological insights, and quantitative observations.  
-- **`docs/`** – Literature reviews, materials innovation roadmaps, and failure analysis documentation.  
-- **`figures/`** – Diagrams, simulation outputs, and visualizations demonstrating material behavior.  
-- **`notebooks/`** – Python notebooks for thermal and mechanical simulations.  
-- **`simulations/`** – Custom scripts modeling MMC behavior under extreme conditions.  
-- **`data/`** – Experimental and processed material datasets.  
-- **`sources/`** – Academic literature and reference materials supporting analysis.
+## Deliverables
+- Critical literature summary (annotated + evaluative).
+- Jupyter Notebook: Thermal gradient + thermal stress simulations.
+- Poster (RSC submission ready).
+- Blog post update.
+- GitHub repo with:
+  - Clean simulations
+  - Documentation
+  - Research narrative
+- Vision doc update with reflection.
 
----
-
-## Key Findings
-- **Thermal Performance:** Analysis indicates **X% reduction in predicted thermal stress** in certain MMC layer configurations.  
-- **Mechanical Behavior:** Evaluation identifies **layer compositions minimizing expansion mismatch** under extreme temperature gradients.  
-- **Insight Generation:** Simulations and visualizations establish correlations between **microstructure, heat propagation, and failure mechanisms**, providing a foundation for future experimental validation.
-
----
-
-## Next-Level Research Roadmap
-- Extend modeling to **multi-scale MMC microstructures** to probe previously uncharacterized failure mechanisms.  
-- Integrate **thermal and mechanical models** to predict ablation and structural response at experimental scales.  
-- Prepare findings for **submission to high-impact aerospace materials journals**, establishing early research credibility.  
-- Investigate **novel MMC compositions** informed by simulation insights to guide experimental prototypes in future studies.
-
----
-
-## Contact
-Samuel Bertman – [GitHub Profile](https://github.com/yourusername) | SamuelBertman@hotmail.com
+## Strategic Impact
+- Demonstrates capability to **push materials to breaking point** and extract insight.
+- Positions work as **comparative failure-domain analysis**, a mindset essential in aerospace R&D.
+- Builds a **modular sim framework** for UHTCs and future materials research.
+- Establishes early competitive visibility in aerospace materials chemistry.
