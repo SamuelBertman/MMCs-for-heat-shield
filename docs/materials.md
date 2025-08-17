@@ -109,4 +109,3 @@ Yield strength Ni/SiC (theoretical calculation value-using vickers hardness)
 
 
 
-
