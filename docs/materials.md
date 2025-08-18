@@ -1,4 +1,4 @@
-Aerospace heat shield material focus right now is on the following:
+Aerospace material focus right now is on the following:
 Ti matrix and SiC fibre MMC (Ti/SiC) 
 . reinforced with continuous SiC fibres w/ titanium matrix. [nickname Ti/SiC]
 SiCp/Al
