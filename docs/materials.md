@@ -112,3 +112,5 @@ Oxidation resistance, thermal shock resistance, and interface degradation
 MMCs vs true heat shield materials (UHTCs, RCC, etc.), comparison table even small would be good
 standardise modulus and stress unit values, GPa or ksi
 
+Thermal shock resistance TiSiC
+Ti₃SiC₂ exhibits excellent thermal shock resistance, with residual bending strength dropping from 332 MPa to 35 MPa after quenching from 1300 °C, and complete fracture at 1450 °C (Su et al., 2021)
