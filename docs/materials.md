@@ -106,6 +106,9 @@ up to 300F, 60ksi, then declines with 20ksi at 550F
 Yield strength Ni/SiC (theoretical calculation value-using vickers hardness)
 520 ksi
 
-
-
+Data currently missing: 
+creep/modulus close to 1650C, if none, write up as a limitation of my projecet (put in write up)
+Oxidation resistance, thermal shock resistance, and interface degradation
+MMCs vs true heat shield materials (UHTCs, RCC, etc.), comparison table even small would be good
+standardise modulus and stress unit values, GPa or ksi
 
